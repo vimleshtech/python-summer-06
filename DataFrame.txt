@@ -1,0 +1,36 @@
+DataFrame :
+	Add and remove columns(array)
+
+DataFrame:
+	Filter the rows
+
+
+Convert dataframe to list/array
+
+
+Show data in graphical format
+
+
+Questions:
+sid   name    gender  hs  ms   cs es 
+1    raman    male    66  77   88  90
+
+
+out
+----
+sid name gender total_mark  avg grade 
+
+
+		avg>80
+				A
+		avg>60 
+			B
+		avg>40
+			C
+		else
+			D
+
+
+Out:
+	show group for avg score 
+			
